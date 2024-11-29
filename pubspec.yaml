@@ -1,0 +1,75 @@
+name: deliveryapp
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: ^3.5.2
+dependencies:
+  flutter:
+    sdk: flutter
+  carousel_slider: ^5.0.0
+  lottie: ^3.1.3
+
+cupertino_icons: ^1.0.8
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+flutter:
+  uses-material-design: true
+  assets:
+    - images/2.png
+    - images/4.png
+    - images/grocery.png
+    - images/stationary.png
+    - images/snacks.png
+    - images/rice.png
+    - images/oil.png
+    - images/kitchen.png
+    - images/cleaning.png
+    - images/carousel/1.png
+    - images/carousel/2.png
+    - images/carousel/3.jpg
+    - images/m1.jpg
+    - images/all categories/cleaning/clean1.png
+    - images/all categories/cleaning/clean2.png
+    - images/all categories/cleaning/clean3.png
+    - images/all categories/cleaning/clean4.png
+    - images/all categories/cleaning/clean5.png
+    - images/all categories/cleaning/clean6.png
+    - images/all categories/cooking olis/oil1.png
+    - images/all categories/cooking olis/oil2.png
+    - images/all categories/cooking olis/oil3.png
+    - images/all categories/cooking olis/oil4.png
+    - images/all categories/cooking olis/oil5.png
+    - images/all categories/grocery/grocery1.png
+    - images/all categories/grocery/grocery2.png
+    - images/all categories/grocery/grocery3.png
+    - images/all categories/grocery/grocery4.png
+    - images/all categories/grocery/grocery5.png
+    - images/all categories/kitchen items/kitchen1.png
+    - images/all categories/kitchen items/kitchen2.png
+    - images/all categories/kitchen items/kitchen3.png
+    - images/all categories/kitchen items/kitchen4.png
+    - images/all categories/kitchen items/kitchen5.png
+    - images/all categories/rice bags/rice1.png
+    - images/all categories/rice bags/rice2.png
+    - images/all categories/rice bags/rice3.png
+    - images/all categories/rice bags/rice4.png
+    - images/all categories/rice bags/rice5.png
+    - images/all categories/snacks/snacks1.png
+    - images/all categories/snacks/snacks2.png
+    - images/all categories/snacks/snacks3.png
+    - images/all categories/snacks/snacks4.png
+    - images/all categories/snacks/snacks5.png
+    - images/all categories/snacks/snacks6.png
+    - images/all categories/snacks/snacks7.png
+    - images/all categories/snacks/snacks8.png
+    - images/all categories/snacks/snacks9.png
+    - images/all categories/stationary/stationary1.png
+    - images/all categories/stationary/stationary2.png
+    - images/all categories/stationary/stationary3.png
+    - images/all categories/stationary/stationary4.png
+    - images/all categories/stationary/stationary5.png
+    - images/animations/order.json
+
